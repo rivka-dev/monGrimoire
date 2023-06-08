@@ -1,4 +1,3 @@
-const sharpConfig = require ('sharp')
 const SharpMulter=require('sharp-multer')
 const multer=require ('multer')
 
