@@ -18,7 +18,7 @@ Once you've finished, I suggest that we both make a point so that you present yo
 
 Attachments :
 
-- [Technical specifications of the API](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/DW_P7+Back-end/DW+P7+Back-end+-+Specifications+API .pdf)
+- [Technical specifications of the API](https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/DW_P7+Back-end/DW+P7+Back-end+-+Specifications+API.pdf)  
 - [Front-end code on GitHub](https://github.com/OpenClassrooms-Student-Center/P7-Dev-Web-livres)
 
 #### Last request
