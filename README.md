@@ -1,5 +1,5 @@
 # Develop the back-end of a book rating site
-Mon Vieux Grimoire - Creation From Scratch of a back-end
+Mon Vieux Grimoire - Creation From Scratch of the back-end of a site
 
 ## Script
 You have been a freelance back-end developer for a year now in the Lille region. You are used to working with Kevin, a more experienced front-end developer than you, who already has a good network of contacts in the industry.
